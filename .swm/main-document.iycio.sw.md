@@ -4,7 +4,7 @@ name: main document
 file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
-  users/templates/users/this_is_very_long_name_for_folder1/this_is_very_long_name_for_folder2/this_is_very_long_name_for_folder3/this_is_very_long_name_for_folder4/this_is_very_long_name_for_folder5/this_is_very_long_name_for_folder6/this_is_very_long_name_for_folder7/this_is_very_long_name_for_folder8/this_is_very_log_name_for_file.html: 3c7b00ea19cb3ff7aca22e277998f82cc79c4f9b
+  users/templates/users/this_is_very_long_name_for_folder1/this_is_very_long_name_for_folder2/this_is_very_long_name_for_folder3/this_is_very_long_name_for_folder4/this_is_very_long_name_for_folder5/this_is_very_long_name_for_folder6/this_is_very_long_name_for_folder7/this_is_very_long_name_for_folder8/this_is_very_log_name_for_file.html: ca068b9fa400e6986d2308e7542be73f2f1489d1
   .gitignore: 45b7396d84ca19d739a6f2ed21c62fb41ace6a15
 ---
 
@@ -13,9 +13,8 @@ very long file name 1
 ### 📄 users/templates/users/this_is_very_long_name_for_folder1/this_is_very_long_name_for_folder2/this_is_very_long_name_for_folder3/this_is_very_long_name_for_folder4/this_is_very_long_name_for_folder5/this_is_very_long_name_for_folder6/this_is_very_long_name_for_folder7/this_is_very_long_name_for_folder8/this_is_very_log_name_for_file.html
 ```html
 🟩 1      <h1>
-🟩 2      HEADER
+🟩 2      EXTRA HEADER
 🟩 3      </h1>
-⬜ 4      
 ```
 
 <br/>
