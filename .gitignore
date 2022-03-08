@@ -12,9 +12,9 @@ build/
 develop-eggs/
 dist/
 downloads/
-eggs/
-.eggs/
-lib/
+new_eggs/
+.old_eggs/
+xxx/
 lib64/
 parts/
 sdist/
