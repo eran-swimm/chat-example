@@ -2,9 +2,10 @@
 id: sa373
 name: Routing 2
 file_version: 1.0.2
-app_version: 0.7.6-1
+app_version: 0.7.8-0
 file_blobs:
   mysite/routing.py: 4f954484ddc671c3597d903a1172aa99e378492a
+  manage.py: 341863cf62fa5e89fb18b7fc46655038624623c9
 ---
 
 routing
@@ -24,6 +25,36 @@ routing
 🟩 11         ),
 ⬜ 12     })
 ```
+
+<br/>
+
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbi1zd2ltbQ%3D%3D%2Fcffae342-f24b-48ac-91c9-2cb2b87ce8a4.png?alt=media&token=5328a98d-3b07-4e83-a424-58c442f02beb" style="width:'50%'"/></div>
+
+<br/>
+
+<div align="center"><img src="https://media2.giphy.com/media/jO3Vo7hTdSxfg4cbmc/giphy.gif?cid=d56c4a8bq7nswzjqdfx0dbrr54x6qxokmokjqx1op8g1f91k&rid=giphy.gif&ct=g" style="width:'50%'"/></div>
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 manage.py
+```python
+⬜ 9          try:
+⬜ 10             from django.core.management import execute_from_command_line
+⬜ 11         except ImportError as exc:
+🟩 12             raise ImportError(
+🟩 13                 "Couldn't import Django. Are you sure it's installed and "
+🟩 14                 "available on your PYTHONPATH environment variable? Did you "
+🟩 15                 "forget to activate a virtual environment?"
+🟩 16             ) from exc
+⬜ 17         execute_from_command_line(sys.argv)
+⬜ 18     
+⬜ 19     
+```
+
+<br/>
+
+`📄 manage.py`
 
 <br/>
 
