@@ -12,14 +12,6 @@ file_blobs:
 
 <br/>
 
-|11|44|22|33 |
-|---|---|---|---|
-|  |  |  |   |
-|  |ff|  |555|
-|aa|  |bb|   |
-
-<br/>
-
 this is a paragrph 
 
  this is another line  
