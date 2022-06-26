@@ -3,9 +3,6 @@ id: iycio
 name: main documen
 file_version: 1.0.2
 app_version: 0.9.0-1
-file_blobs:
-  .gitignore: c47f5b93b2fd32cc56ceb3150ad049033ccb9a6e
-  mysite/routing.py: 4f954484ddc671c3597d903a1172aa99e378492a
 ---
 
 <div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0%3D%2F029e3519-e34c-48e2-93ec-9e0b4ba518d2.png?alt=media&token=919da59a-1245-435d-b77e-0371e13397f4" style="width:'50%'"/></div>
@@ -34,46 +31,6 @@ this is another line
 <br/>
 
 <div align="center"><img src="https://media0.giphy.com/media/WG1YcoKVPwhR30HWP9/giphy.gif?cid=d56c4a8bthm6w0bbch32ul0ogwj3eqcwn4jc3ca3zs4u1o4s&rid=giphy.gif&ct=g" style="width:'25%'"/></div>
-
-<br/>
-
-| | |
-|---|---|
-| | |
-
-<br/>
-
-this is for the gitignore
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 .gitignore
-```gitignore
-⬜ 12     develop-eggs/
-⬜ 13     dist/
-⬜ 14     downloads/
-🟩 15     new_eggs/
-🟩 16     .old_eggs/
-🟩 17     111xxx/
-🟩 18     lib64/
-⬜ 19     parts/
-⬜ 20     sdist/
-⬜ 21     var/
-```
-
-<br/>
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 mysite/routing.py
-```python
-⬜ 4      
-⬜ 5      application = ProtocolTypeRouter({
-⬜ 6          # (http->django views is added by default)
-🟩 7          'websocket': AuthMiddlewareStack(
-🟩 8              URLRouter(
-🟩 9                  chat.routing.websocket_urlpatterns
-⬜ 10             )
-⬜ 11         ),
-⬜ 12     })
-```
 
 <br/>
 
